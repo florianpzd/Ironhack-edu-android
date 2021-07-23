@@ -170,9 +170,9 @@ This view must contain:
 
 ---
 ### :book: Bibliography
-[Layout graphical tool editor](https://developer.android.com/studio/write/layout-editor)
-[Official layout documentation](https://developer.android.com/guide/topics/ui/declaring-layout)
-[Layout attributes explanation](https://medium.com/androiddevelopers/layouts-attributes-and-you-9e5a4b4fe32c)
+- [Layout graphical tool editor](https://developer.android.com/studio/write/layout-editor)
+- [Official layout documentation](https://developer.android.com/guide/topics/ui/declaring-layout)
+- [Layout attributes explanation](https://medium.com/androiddevelopers/layouts-attributes-and-you-9e5a4b4fe32c)
 
 ---
 ### What's next?
