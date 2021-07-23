@@ -168,7 +168,7 @@ The notion of widget positioning should be found on the Internet but will be rev
 <details>
   <summary>Click for Solution: Activity 3 solutions</summary>
 
-- Link to [activity 3 solution](https://gist.github.com/ironhack-edu/9ca2052231cc1802096e2f0c4eb7e9a9).
+- Link to [activity 3 solution](https://github.com/florianpzd/Ironhack-edu-android/blob/master/android-ui-case-study/1.0_android_ui_introduction/exercise3/view.xml).
 
 </details>
 
