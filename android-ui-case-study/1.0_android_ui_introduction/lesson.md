@@ -208,5 +208,5 @@ This view must contain:
 ---
 ### What's next?
 - Focus on constraint layout
-- Advanced explanation of the 
+- Advanced explanation of the constraint system
 - Introduction to the responsive concept
