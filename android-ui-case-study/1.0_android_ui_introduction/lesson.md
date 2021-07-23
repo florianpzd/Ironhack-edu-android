@@ -43,7 +43,6 @@ Graphic way to create Android views
 - Presentation of the main widget types and some attributes: Textview, Edittextview, Imageview, Button
 - Quick introduction to widget size concepts: dp, wrap content, match parent
 - Presentation of the android graphic tool to create a view
-- 
 ---
 
 :coffee: **BREAK**
