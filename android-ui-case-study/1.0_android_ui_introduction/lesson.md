@@ -160,9 +160,9 @@ The notion of widget positioning should be found on the Internet but will be rev
 
  **Activity 3**:
 
-- Creation of a **Button** at the top left of the screen of size 50dp
-- Creation of a **Button** to the right of the first button located at 20 dp from the latter
-- Create an **ImageView** below the button with a length equal to the screen size
+- Creation of a **Button** at the top left of the screen of size 50dp * 50dp
+- Creation of a **Button** to the right of the first button located at 20dp * 20dp from the latter
+- Create an **ImageView** below the first button with a length equal to the screen size
 - Create a **Textview** in the center of this image (using frame layout)
 
 <details>
