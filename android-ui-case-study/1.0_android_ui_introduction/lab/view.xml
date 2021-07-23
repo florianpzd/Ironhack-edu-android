@@ -52,5 +52,5 @@
         android:layout_below="@id/image"
         android:layout_alignStart="@id/image"
         android:layout_alignEnd="@id/image"
-        android:text="Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum"
+        android:text="Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum"/>
 </RelativeLayout>
