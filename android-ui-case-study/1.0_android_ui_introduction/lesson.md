@@ -66,7 +66,7 @@ The notion of widget positioning should be found on the Internet but will be rev
 <details>
   <summary> Click for Solution: Activity 1 solutions </summary>
 
-- Link to [activity 1 solution](https://gist.github.com/ironhack-edu/253270833e1716fca5d7273469ea757d).
+- Link to [activity 1 solution](https://github.com/florianpzd/Ironhack-edu-android/blob/master/android-ui-case-study/1.0_android_ui_introduction/exercise1/view.xml).
 
 </details>
 
@@ -102,7 +102,7 @@ The notion of widget positioning should be found on the Internet but will be rev
 <details>
   <summary> Click for Solution: Activity 2 solutions </summary>
 
-- Link to [activity 2 solutions](https://gist.github.com/ironhack-edu/2946a99a19aa1f86c066e7dd1ffec7fc).
+- Link to [activity 2 solutions](https://github.com/florianpzd/Ironhack-edu-android/blob/master/android-ui-case-study/1.0_android_ui_introduction/exercise2/view.xml).
 
 </details>
 
@@ -164,7 +164,7 @@ This view must contain:
 <details>
   <summary> Click for Solution: Lab solutions </summary>
 
-- Link to the [lab solution](https://gist.github.com/ironhack-edu/c3e7fba417de11bcf152ba6329acbbb4).
+- Link to the [lab solution](https://github.com/florianpzd/Ironhack-edu-android/blob/master/android-ui-case-study/1.0_android_ui_introduction/lab/view.xml).
 
 </details>
 
