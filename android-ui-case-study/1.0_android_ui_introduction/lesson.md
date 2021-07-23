@@ -43,37 +43,7 @@ Graphic way to create Android views
 - Presentation of the main widget types and some attributes: Textview, Edittextview, Imageview, Button
 - Quick introduction to widget size concepts: dp, wrap content, match parent
 - Presentation of the android graphic tool to create a view
-
-<details>
-  <summary> Click for Code Sample: Python and database connection </summary>
-
-```python
-import pymysql
-from sqlalchemy import create_engine
-import pandas as pd
-import getpass  # To get the password without showing the input
-password = getpass.getpass()
-```
-
-</details>
-
-<details>
-  <summary> Click for Code Sample: Import data into a dataframe </summary>
-
-```python
-connection_string = 'mysql+pymysql://root:' + password + '@localhost/bank'
-engine = create_engine(connection_string)
-query = '''select t.type, t.operation, t.amount as t_amount, t.balance, t.k_symbol, l.amount as l_amount, l.duration, l.payments, l.status
-from trans t
-left join loan l
-on t.account_id = l.account_id;'''
-
-data = pd.read_sql_query(query, engine)
-data.head()
-```
-
-</details>
-
+- 
 ---
 
 :coffee: **BREAK**
